@@ -15,6 +15,9 @@ body{
     font-weight: 700;
     padding: 18px 35px;
 }
+.btn-primary:hover{
+    background-color: #fd430a;
+}
 .section-title{
     color:#181818;
 text-align: center;
@@ -232,6 +235,10 @@ footer{
     border-radius: 5px;
     background: #FFF;
     width: 100%;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+
 }
 .social-links a{
     margin-right: 30px;
